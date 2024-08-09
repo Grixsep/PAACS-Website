@@ -11,9 +11,9 @@ disqus_shortname:
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Multi-Physics Simulatons with PAACS Software.
-author:
-  name:
-  email:
+author: Paul Dewhurst
+  name: Paul Dewhurst
+  email: 
   twitter: # twitter username without the @ symbol
 social:
   name: Hydra Template
